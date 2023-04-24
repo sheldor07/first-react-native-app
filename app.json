@@ -25,6 +25,9 @@
     },
     "web": {
       "favicon": ".App/assets/favicon.png"
+    },
+    "androidStatusBar": {
+      "translucent": false,
     }
   }
 }
